@@ -2,6 +2,8 @@
 
 This repository contains chapter-by-chapter code reproduction, summaries, and theoretical explanations based on the book **scikit-learn Cookbook (Third Edition)** by John Sukup.
 
+<img src="cover.jpg" width="300">
+
 ## 📘 Objective
 
 To improve practical Machine Learning skills using Python and scikit-learn through structured implementation of models, preprocessing techniques, evaluation methods, and deployment workflows.
