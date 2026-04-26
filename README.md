@@ -81,3 +81,16 @@ Demonstrates how trained models are saved, loaded, and used in production enviro
 ## 👨‍💻 Author
 
 Mohammad Fauzi Hadiwijaya
+
+## 📌 Disclaimer
+
+This repository is created for educational purposes as part of a Machine Learning learning project.
+All original concepts, chapter structures, and source materials belong to the original author and publisher of the book:
+
+**scikit-learn Cookbook (Third Edition)**
+Author: **John Sukup**
+
+The code in this repository has been independently reproduced, reorganized, and expanded with additional explanations, visualizations, and summaries for academic learning purposes only.
+
+Full credit and intellectual ownership remain with the original author and publisher.
+
